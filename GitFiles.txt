@@ -1,0 +1,7 @@
+git init
+git add .
+git commit - "message"
+git branch -M main
+git remote add origin hetttps://github.com/Bhavishya2618/valorant-static.git
+
+git push -u origin main
