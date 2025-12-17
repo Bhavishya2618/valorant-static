@@ -239,7 +239,7 @@ body{
 
 .agent-content{
     position: absolute;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     right: 5%;
     top: 30%;
     color: #ECE8E1;;
