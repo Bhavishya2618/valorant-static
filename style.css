@@ -332,7 +332,7 @@ body{
     align-items: center;
     justify-content: space-evenly;
 }
-.your-agent-image-container > article{
+.your-agent-container > article{
     height: 90%;
     width: 45%;
     border: 2px solid black;
